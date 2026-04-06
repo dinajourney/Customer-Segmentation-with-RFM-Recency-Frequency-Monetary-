@@ -17,6 +17,8 @@ Insights and recommendations are provided in the following areas:
 **Files**
 
 **The Excel Analysis File** [View File](RFM_sales.csv)
+
+
 **Raw Files** [View File](raw_rfm_sales_transactions_30000.csv)
 
 
