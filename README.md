@@ -14,5 +14,9 @@ Insights and recommendations are provided in the following areas:
 3. **Sales Trend** - Analyzing the revenue in 2025 from January - june
 4. **Sales by Region** - Analyzing sales performance by region to identify top contributing market
 
+**Files**
+
+**The Excel Analysis File** [View File]
+
 
 
