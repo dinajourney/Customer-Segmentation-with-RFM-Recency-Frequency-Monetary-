@@ -15,11 +15,16 @@ Insights and recommendations are provided in the following areas:
 4. **Sales by Region** - Analyzing sales performance by region to identify top contributing market
 
 **Files**
+---
 
 **The Excel Analysis File** [View File](RFM_sales.csv)
 
 
 **Raw Files** [View File](raw_rfm_sales_transactions_30000.csv)
+
+**Tools**
+1. **Microsoft Excel**
+2. **Power BI**
 
 
 
