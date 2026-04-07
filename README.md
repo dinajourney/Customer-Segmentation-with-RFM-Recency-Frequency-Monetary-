@@ -26,5 +26,12 @@ Insights and recommendations are provided in the following areas:
 1. **Microsoft Excel**
 2. **Power BI**
 
+---
+
+# Executive Summary
+# RFM Customer Segmentation Dashboard
+
+
+
 
 
