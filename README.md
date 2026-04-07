@@ -28,8 +28,30 @@ Insights and recommendations are provided in the following areas:
 
 ---
 
-# Executive Summary
-# RFM Customer Segmentation Dashboard
+## Executive Summary
+## RFM Customer Segmentation Dashboard
+
+![Dashboard Preview](Files/RFM.png)
+
+
+## Overview of fimdimgs
+
+**Customer Segments**
+
+![Customers Segments](Files/segements.png)
+
+
+The largest customer segments are potential loyalist customers with total 72 customers. Many customers have potential to be loyal customers.with right marketing strategy, such as personalized promotions the business can convert them to loyal customer.
+
+---
+
+## Key Insights
+
+## 1. Customers Segments
+
+- With total 100 customers, there are 72 total potential loayalist customers. Many customers have potential to be loysl customers.with right marketing strategy, such as personalized promotions the business can convert them to loyal customer.
+- 
+
 
 
 
